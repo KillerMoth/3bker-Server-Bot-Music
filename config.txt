@@ -1,6 +1,6 @@
-owner=478975894061449216
-prefix=4
-game=4help | 4play :notes:
+owner=448964162840690700
+prefix=2
+game=2help | DragonsEmpire 
 stayinchannel=false
 songinstatus=false
-token = NTM4NzI5MzY5NDIyNzkwNjY2.Dy4CWw.TZQlH2mdxK9IceqrRPIPiCLZWi8
+token = NTMxMzkzODE4ODIyNTc0MDgw.DzHp4w.WXHhJ9l2YY1w4FUf64dLa4V2lGE
